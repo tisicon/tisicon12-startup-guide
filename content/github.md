@@ -10,7 +10,7 @@ GitHubでは自分が作成・管理するソースコードを一般に公開�
 例年、登録したユーザー名/パスワードを忘れてしまう方がいらっしゃいます。  
 イベント当日に思い出せるよう必要に応じてメモをとるなどの対応をしてください。
 
-**[GitHub アカウントの作成方法](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account)**
+**[GitHub アカウントの作成方法](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account)**  
 ※ Gitのインストールは不要です。
 
 ## GitHub Copilotの設定確認
@@ -19,7 +19,7 @@ GitHubでは自分が作成・管理するソースコードを一般に公開�
 そこで、明示的に設定の無効化を行います。  
 
 以下リンクより自身の設定画面に遷移し、画像のように `Disabled` に変更してください。  
-https://github.com/settings/copilot/features
-※Copilot Business (有料組織)アカウントをお持ちの場合は、そもそも学習が許可されていないため対応不要です。
+https://github.com/settings/copilot/features  
+※Copilot Business (有料組織)アカウントをお持ちの場合は、そもそも学習が許可されていないため対応不要です。  
 
 ![GitHub Copilot Setting](../image/github_copilot_setting.png)
