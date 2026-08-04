@@ -4,7 +4,7 @@
 
 - [動作確認](#動作確認)
   - [構成図](#構成図)
-  - [1.GitHubリポジトリのFork](#1githubリポジトリのfork)
+  - [1.GitHubリポジトリのアクセス](#1githubリポジトリのアクセス)
   - [2.Codespaceの作成](#2codespaceの作成)
   - [3.Webアプリケーションの起動確認](#3webアプリケーションの起動確認)
   - [4.Webアプリケーションの終了](#4webアプリケーションの終了)
@@ -33,6 +33,9 @@ https://github.com/tisicon/tisicon12
 
 1. 起動が完了するまで1,2分程度待ちます。  
 ![Starting](../image/codespaces_starting.png)
+
+1. 内容を信頼するか確認が出た場合は、緑の「フォルダーを信頼して続行」を押下します。  
+![Trust Folder](../image/codespaces_trust_folder.png)
 
 1. 以下のような画面に遷移し、プロジェクト内のソースコードが確認できるようになりました。  
 ![Started](../image/codespaces_started.png)
